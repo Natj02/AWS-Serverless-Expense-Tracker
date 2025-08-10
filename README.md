@@ -1,7 +1,6 @@
 # AWS Serverless Expense Tracker
 
-An AWS serverless pipeline for tracking expenses from CSV uploads.  
-Integrates **Amazon S3**, **AWS Lambda**, **Amazon DynamoDB**, and **Amazon CloudWatch** for processing and monitoring expense data.
+An AWS serverless pipeline for tracking expenses from CSV uploads. Integrates **Amazon S3**, **AWS Lambda**, **Amazon DynamoDB**, and **Amazon CloudWatch** for processing and monitoring expense data.
 
 ---
 ## Architecture
